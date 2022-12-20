@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
-Hi, I'm Sumanth Reddy Alluri,    <br><br>I am pursuing my Master's in Computer Science at the University of North Carolina at Charlotte.<br>I have 2 years of experience as a Software Developer in ShipConsole.<br><br>🌱 I’m currently learning Python.
+Hi, I'm Sumanth Reddy Alluri,    <br><br>I am pursuing my Master's in Computer Science at the University of North Carolina at Charlotte.<br>I have 2 years of experience as a Java Full Stack Developer in ShipConsole.<br><br>🌱 I’m currently learning Python.
 
 
 ## 🌐 Socials:
