@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @SumanthAlluri
-
-.
-
-
 
 # 💫 About Me:
 
@@ -22,4 +17,3 @@ Hi, I'm Sumanth Reddy Alluri,    <br><br>I am pursuing my Master's in Computer S
 ---
 [![](https://visitcount.itsvg.in/api?id=SumanthAlluri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->****
